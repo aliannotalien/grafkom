@@ -3,3 +3,4 @@ import numpy
 
 Command
 
+a=10
